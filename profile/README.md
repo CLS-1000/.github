@@ -1,4 +1,4 @@
-# CLS-1000 (`cache-22`)
+# CLS-1000 {NOTIITA CIVICA} by [switchboard]
 
 Public-interest civic intelligence, deterministic signal triage, and tamper-evident audit tooling.
 
